@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "490111799063",
+    "project_id": "fir-course-414eb",
+    "storage_bucket": "fir-course-414eb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:490111799063:android:087964b644e43eb81e7152",
+        "android_client_info": {
+          "package_name": "com.example.calculator"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwf7BD8Mm2lcWkR_KQr2RpjjVKRfBZqAE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
